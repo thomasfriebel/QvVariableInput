@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ExtensionObject Type="object" Label="QvVariableInput" Description="An extended html5 input control">
+	<Text Label="Input variable name" Initial="" Expression="" />
+	<Text Label="Placeholder" Type="" Initial="" Expression="Enter a value" />
+	<Text Label="Type" Type="select" Select="url,text,number,date,month,week,datetime,time,color" SelectLabel="URL,Text,Number,Date,Month,Week,Date-Time,Time,Color" Initial="" Expression="text" />
+
+	<Dimension Label="Dummy dimension (leave empty for better performance)" Initial="$FieldNo"/>
+	
+	<Initiate Name="Caption.Icon.Print" Value="0" />
+	<Initiate Name="Caption.Icon.SendToExcel" Value="0" />
+	<Initiate Name="Caption.Allow.Minimize" Value="0" />
+	<Initiate Name="Caption.Allow.Maximize" Value="0" />
+	<Initiate Name="Layout.Border.Use" Value="1" />
+	<Initiate Name="Background.UseColor" Value="1" />
+	<Initiate Name="Caption.Show" Value="0" />	
+	<Initiate Name="Layout.Normal.Width" Value="128" />	
+	<Initiate Name="Layout.Normal.Height" Value="32" />	
+</ExtensionObject>

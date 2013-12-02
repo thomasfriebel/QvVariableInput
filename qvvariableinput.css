@@ -1,0 +1,13 @@
+.qvvariableinput {
+	display:block;
+	height:95%;
+	border:none;
+	margin:auto;
+	width:95%;
+	background-color:transparent;
+}
+
+input:required:invalid, input:invalid {
+	color:red;
+}
+
