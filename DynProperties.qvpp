@@ -38,15 +38,15 @@
 
 		</div>
 		<h3 class="prop-h3 accordion-shadow" avq="activeAccordionHeader:.:GenericPresentationFoldout.qvpp">
-			<a href="#">Präsentation</a>
+			<a href="#">Presentation</a>
 		</h3>
 		<div class="prop-grid_container accordion-shadow-enabler" avq="panel::Layout.qvpp"></div>
 		<h3 class="prop-h3 accordion-shadow" avq="activeAccordionHeader::PropertiesCaptionFoldout.qvpp">
-			<a href="#">Titelleiste</a>
+			<a href="#">Caption</a>
 		</h3>
 		<div class="prop-grid_container accordion-shadow-enabler" avq="panel::Caption.qvpp"></div>
 		<h3 class="prop-h3 accordion-shadow" avq="activeAccordionHeader:.:PropertiesOptionsFoldout.qvpp">
-			<a href="#">Optionen</a>
+			<a href="#">Options</a>
 		</h3>
 		<div class="prop-grid_container accordion-shadow-enabler" avq="panel::Options.qvpp"></div>
 	</div>
